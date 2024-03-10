@@ -40,3 +40,6 @@
 .maxCount {
   color: red;
 }
+.ErrorColorInput {
+  background-color: #f68e8e;
+}
